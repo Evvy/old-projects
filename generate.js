@@ -55,6 +55,6 @@ forms.forEach((form, i) => {
 
 const generateCommand = (date, time, description, title, image) => {
     const TEMPLATE_ID = 3;
-    let command = `!quickcreate [template:${TEMPLATE_ID}][time:${time}][description:${description}][image:${location.hostname}${image}][title:${title}][date:${date}]`;
+    let command = `!quickcreate [template:${TEMPLATE_ID}][time:${time}][description:${description}][image:${location.hostname}/${image}][title:${title}][date:${date}]`;
     return command
 };
