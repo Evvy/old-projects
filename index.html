@@ -21,6 +21,8 @@
                     <img src="images/gruul-mag.jpg" alt="Gruul and Magtheridon">
                     <img src="images/serpentshrine-cavern.jpg" alt="Serpentshrine Cavern">
                     <img src="images/tempest-keep.jpg" alt="Tempest Keep">
+                    <img src="images/mount-hyjal.jpg" alt="Mount Hyjal">
+                    <img src="images/black-temple.jpg" alt="Black Temple">
                 </div>
                 <p>Scroll down ↓ or use the menu on the right-hand side →</p>
             </section>
@@ -93,6 +95,42 @@
 
                     <label class="desc" for="desc-tk">Description:</label>
                     <input type="text" id="desc-tk" name="desc-tk" value="Invites starts at 19:00 - Bring consumables! 1 SR per person (MS > OS)" required>
+                    <button class="generate-button" type="submit">Generate Command</button>
+                </form>
+            </section>
+
+            <section class="section">
+                <div class="thumbnail">
+                    <h2>Mount Hyjal</h2>
+                    <img src="images/mount-hyjal.jpg" alt="Mount Hyjal">
+                </div>
+                <form id="mh" method="post">
+                    <label class="date" for="date-mh">Date:</label>
+                    <input type="date" id="date-mh" name="date-mh" min="2021-01-01" max="2022-12-31" required>
+
+                    <label class="time" for="time-mh">Time:</label>
+                    <input type="time" id="time-mh" name="time-mh" value="19:30" required>
+
+                    <label class="desc" for="desc-mh">Description:</label>
+                    <input type="text" id="desc-mh" name="desc-mh" value="Invites starts at 19:00 - Bring consumables! 1 SR per person (MS > OS)" required>
+                    <button class="generate-button" type="submit">Generate Command</button>
+                </form>
+            </section>
+
+            <section class="section">
+                <div class="thumbnail">
+                    <h2>Black Temple</h2>
+                    <img src="images/black-temple.jpg" alt="Black Temple">
+                </div>
+                <form id="bt" method="post">
+                    <label class="date" for="date-bt">Date:</label>
+                    <input type="date" id="date-bt" name="date-bt" min="2021-01-01" max="2022-12-31" required>
+
+                    <label class="time" for="time-bt">Time:</label>
+                    <input type="time" id="time-bt" name="time-bt" value="19:30" required>
+
+                    <label class="desc" for="desc-bt">Description:</label>
+                    <input type="text" id="desc-bt" name="desc-bt" value="Invites starts at 19:00 - Bring consumables! 1 SR per person (MS > OS)" required>
                     <button class="generate-button" type="submit">Generate Command</button>
                 </form>
             </section>
