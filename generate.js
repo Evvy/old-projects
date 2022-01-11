@@ -8,7 +8,9 @@ const raids = [
     { id: 'kara',  title: 'Karazhan',                image: 'images/karazhan.jpg'},
     { id: 'gm',    title: 'Gruul and Magtheridon',   image: 'images/gruul-mag.jpg'},
     { id: 'ssc',   title: 'Serpentshrine Cavern',    image: 'images/serpentshrine-cavern.jpg'},
-    { id: 'tk',    title: 'Tempest Keep',            image: 'images/tempest-keep.jpg'}
+    { id: 'tk',    title: 'Tempest Keep',            image: 'images/tempest-keep.jpg'},
+    { id: 'mh',    title: 'Mount Hyjal',            image: 'images/mount-hyjal.jpg'},
+    { id: 'bt',    title: 'Black Temple',            image: 'images/black-temple.jpg'}
 ];
 
 
@@ -53,6 +55,6 @@ forms.forEach((form, i) => {
 
 const generateCommand = (date, time, description, title, image) => {
     const TEMPLATE_ID = 3;
-    let command = `!quickcreate [template:${TEMPLATE_ID}][time:${time}][description:${description}][image:${location.href}/${image}][title:${title}][date:${date}]`;
+    let command = `!quickcreate [template:${TEMPLATE_ID}][time:${time}][description:${description}][image:${location.hostname}${image}][title:${title}][date:${date}]`;
     return command
 };
