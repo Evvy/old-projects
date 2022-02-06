@@ -92,8 +92,37 @@ const addToClipboard = output => {
     try {
         navigator.clipboard.writeText(output).then(function() {
             console.log('Success: Saved the output to the clipboard.')
+            let timerInterval
+            Swal.fire({
+              title: 'Success!',
+              icon: 'success',
+              html: '<strong>The command has been copied to your clipboard.<br>To access it press CTRL + V.</strong><br><br>This window will auto-close in <b></b> seconds.',
+              timer: 10000,
+              timerProgressBar: true,
+              didOpen: () => {
+                Swal.showLoading()
+                const b = Swal.getHtmlContainer().querySelector('b')
+                timerInterval = setInterval(() => {
+                  b.textContent = (Swal.getTimerLeft() / 1000).toFixed()
+                }, 100)
+              },
+              willClose: () => {
+                clearInterval(timerInterval)
+              }
+            }).then((result) => {
+              /* Read more about handling dismissals below */
+              if (result.dismiss === Swal.DismissReason.timer) {
+                console.log('I was closed by the timer')
+              }
+            })
         })
     } catch (error) {
+        Swal.fire({
+          icon: 'error',
+          title: 'Oops...',
+          text: 'Something went wrong when copying the command to your clipboard! \n Please try to generate a new command.',
+          footer: 'Completely stuck? Hit Nimy up on Discord.'
+        })
         console.log(`${error}: Couldn\'t save output to the clipboard.`)
     }
 }
