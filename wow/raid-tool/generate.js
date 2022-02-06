@@ -81,7 +81,7 @@ const generateCommand = (data) => {
         [template:${TEMPLATE_ID}]
         [time:${time}]
         [description:${description}]
-        [image:https://${location.hostname}${image}]
+        [image:${image}]
         [title:${title}]
         [date:${date}]
     `
