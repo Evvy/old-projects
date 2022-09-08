@@ -74,7 +74,7 @@ const formatDate = date => {
 
 // Takes a data parameter and destructures it to individual pieces and placed into the template literal.
 const generateCommand = (data) => {
-    const TEMPLATE_ID = 3;
+    const TEMPLATE_ID = 4;
     const [image, title, date, time, description] = data
     return `/quickcreate arguments:
         [template:${TEMPLATE_ID}]
