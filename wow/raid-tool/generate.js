@@ -77,7 +77,7 @@ const generateCommand = (data) => {
     const TEMPLATE_ID = 3;
     const [image, title, date, time, description] = data
     return `
-        !quickcreate
+        /quickcreate arguments
         [template:${TEMPLATE_ID}]
         [time:${time}]
         [description:${description}]
