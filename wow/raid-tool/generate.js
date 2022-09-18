@@ -1,3 +1,5 @@
+window.location.href = "http://github.com/404";
+
 window.addEventListener('DOMContentLoaded', (event) => {
     console.log('DOM fully loaded and parsed');
     // Sets the date input to today's date.
