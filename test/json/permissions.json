@@ -1,22 +1,25 @@
 {
-  "admin": {
-    "ManageServer": true,
-    "ManageRoles": true,
-    "ManageChannels": false,
-    "etc": true
-  },
-  "moderator": {
-    "KickMembers": true,
-    "BanMembers": false,
-    "ManageMessages": true,
-    "ManageRoles": true,
-    "etc": false
-  },
-  "member": {
-    "SendMessages": true,
-    "ReadMessages": true,
-    "AddReactions": true,
-    "ManageChannels": false,
-    "etc": true
-  }
+  "roles": [
+    {
+      "name": "Admin",
+      "permissions": [
+        { "name": "Permission 1", "enabled": true },
+        { "name": "Permission 2", "enabled": false },
+        { "name": "Permission 3", "enabled": true },
+        // Add more permissions as needed
+      ]
+    },
+    {
+      "name": "Officer",
+      "permissions": [
+        // Permissions for Officer role
+      ]
+    },
+    {
+      "name": "Everyone",
+      "permissions": [
+        // Permissions for Everyone role
+      ]
+    }
+  ]
 }
