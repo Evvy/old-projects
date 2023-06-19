@@ -3,26 +3,55 @@
     {
       "name": "Admin",
       "permissions": [
-        { "name": "Permission 1", "enabled": true },
-        { "name": "Permission 2", "enabled": false },
-        { "name": "Permission 3", "enabled": true }
+        { "name": "Create Channel", "enabled": true },
+        { "name": "Delete Channel", "enabled": false },
+        { "name": "Edit Channel", "enabled": true },
+        { "name": "Ban Members", "enabled": true },
+        { "name": "Kick Members", "enabled": false },
+        { "name": "Manage Roles", "enabled": true },
+        { "name": "Manage Channels", "enabled": true },
+        { "name": "Manage Server", "enabled": false },
+        { "name": "View Audit Logs", "enabled": true }
       ]
     },
     {
       "name": "Officer",
       "permissions": [
-        { "name": "Permission 4", "enabled": true },
-        { "name": "Permission 5", "enabled": false },
-        { "name": "Permission 6", "enabled": true }
+        { "name": "Create Channel", "enabled": false },
+        { "name": "Delete Channel", "enabled": true },
+        { "name": "Edit Channel", "enabled": false },
+        { "name": "Ban Members", "enabled": false },
+        { "name": "Kick Members", "enabled": true },
+        { "name": "Manage Roles", "enabled": false },
+        { "name": "Manage Channels", "enabled": true },
+        { "name": "Manage Server", "enabled": true },
+        { "name": "View Audit Logs", "enabled": false }
       ]
     },
     {
       "name": "Everyone",
       "permissions": [
-        { "name": "Permission 7", "enabled": true },
-        { "name": "Permission 8", "enabled": false },
-        { "name": "Permission 9", "enabled": true }
+        { "name": "Create Channel", "enabled": false },
+        { "name": "Delete Channel", "enabled": false },
+        { "name": "Edit Channel", "enabled": true },
+        { "name": "Ban Members", "enabled": true },
+        { "name": "Kick Members", "enabled": true },
+        { "name": "Manage Roles", "enabled": false },
+        { "name": "Manage Channels", "enabled": false },
+        { "name": "Manage Server", "enabled": false },
+        { "name": "View Audit Logs", "enabled": true }
       ]
     }
+  ],
+  "permissions": [
+    "Create Channel",
+    "Delete Channel",
+    "Edit Channel",
+    "Ban Members",
+    "Kick Members",
+    "Manage Roles",
+    "Manage Channels",
+    "Manage Server",
+    "View Audit Logs"
   ]
 }
