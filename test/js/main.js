@@ -3,42 +3,38 @@ fetch('json/permissions.json')
   .then(response => response.json())
   .then(data => {
     const permissionsGrid = document.getElementById('permissions-grid');
+    const roleButtons = document.querySelectorAll('.role-button');
 
-    // Function to update the permissions grid
-    const updateGrid = () => {
+    // Function to update the permissions grid based on the selected role
+    const updateGrid = (role) => {
       // Clear the permissions grid
       permissionsGrid.innerHTML = '';
 
-      // Iterate over roles
-      data.roles.forEach(role => {
-        const roleContainer = document.createElement('div');
-        roleContainer.className = 'role-container';
-        roleContainer.innerHTML = `<h3>${role.name}</h3>`;
+      // Iterate over permissions
+      data.permissions.forEach(permission => {
+        const permissionItem = document.createElement('div');
+        permissionItem.className = 'permission-item';
 
-        // Create a grid container for permissions
-        const permissionsContainer = document.createElement('div');
-        permissionsContainer.className = 'permissions-container';
+        const hasPermission = role.permissions.some(p => p.name === permission && p.enabled);
+        const symbol = hasPermission ? '✅' : '❌';
 
-        // Iterate over permissions
-        role.permissions.forEach(permission => {
-          const permissionItem = document.createElement('div');
-          permissionItem.className = 'permission-item';
-          const permissionSymbol = permission.enabled ? '✅' : '❌';
+        permissionItem.innerHTML = `
+          <span>${symbol}</span>
+          <label>${permission}</label>
+        `;
 
-          // Create symbol for each permission
-          permissionItem.innerHTML = `
-            <span>${permissionSymbol}</span>
-            <label>${permission.name}</label>
-          `;
-
-          permissionsContainer.appendChild(permissionItem);
-        });
-
-        roleContainer.appendChild(permissionsContainer);
-        permissionsGrid.appendChild(roleContainer);
+        permissionsGrid.appendChild(permissionItem);
       });
     };
 
-    // Initial grid update
-    updateGrid();
+    // Add event listeners to role buttons
+    roleButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const selectedRole = data.roles.find(role => role.name === button.dataset.role);
+        updateGrid(selectedRole);
+      });
+    });
+
+    // Initial grid update with the first role
+    updateGrid(data.roles[0]);
   });
