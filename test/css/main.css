@@ -1,19 +1,47 @@
-/* Example styles, customize as needed */
-.role-container {
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.role-buttons {
+  text-align: center;
   margin-bottom: 20px;
 }
 
-.permissions-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 10px;
+.role-button {
+  padding: 8px 16px;
+  margin: 0 5px;
+  font-size: 14px;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .permission-item {
   display: flex;
   align-items: center;
+  margin-bottom: 10px;
 }
 
 .permission-item span {
-  margin-right: 5px;
+  margin-right: 10px;
+}
+
+.permission-item label {
+  font-weight: bold;
+}
+
+.permission-item span {
+  font-size: 20px;
+}
+
+.permission-item span:first-child {
+  color: green;
+}
+
+.permission-item span:last-child {
+  color: red;
 }
