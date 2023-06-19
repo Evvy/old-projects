@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.role-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.role {
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.checkmark {
+  color: green;
+}
+
+.x-mark {
+  color: red;
+}
+
+.permission-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+.permission-item {
+  display: flex;
+  align-items: center;
+}
+
+.permission-item span {
+  margin-right: 5px;
+}
