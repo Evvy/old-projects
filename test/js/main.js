@@ -1,5 +1,5 @@
 // Fetch JSON data
-fetch('data/roles.json')
+fetch('json/permissions.json')
   .then(response => response.json())
   .then(data => {
     const permissionsGrid = document.getElementById('permissions-grid');
