@@ -44,6 +44,8 @@ h1 {
 .permission-item {
   display: flex;
   align-items: center;
+  border: 1px solid #ccc;
+  padding: 10px;
 }
 
 .permission-item span {
