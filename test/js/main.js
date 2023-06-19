@@ -9,21 +9,33 @@ fetch('json/permissions.json')
       // Clear the permissions grid
       permissionsGrid.innerHTML = '';
 
-      // Iterate over permissions
-      data.permissions.forEach(permission => {
-        const permissionItem = document.createElement('div');
-        permissionItem.className = 'permission-item';
-        const permissionSymbol = (role) => role.permissions.includes(permission) ? '✅' : '❌';
+      // Iterate over roles
+      data.roles.forEach(role => {
+        const roleContainer = document.createElement('div');
+        roleContainer.className = 'role-container';
+        roleContainer.innerHTML = `<h3>${role.name}</h3>`;
 
-        // Create symbol for each permission for each role
-        permissionItem.innerHTML = `
-          <span>${permissionSymbol('Admin')}</span>
-          <span>${permissionSymbol('Officer')}</span>
-          <span>${permissionSymbol('Everyone')}</span>
-          <label>${permission}</label>
-        `;
+        // Create a grid container for permissions
+        const permissionsContainer = document.createElement('div');
+        permissionsContainer.className = 'permissions-container';
 
-        permissionsGrid.appendChild(permissionItem);
+        // Iterate over permissions
+        role.permissions.forEach(permission => {
+          const permissionItem = document.createElement('div');
+          permissionItem.className = 'permission-item';
+          const permissionSymbol = permission.enabled ? '✅' : '❌';
+
+          // Create symbol for each permission
+          permissionItem.innerHTML = `
+            <span>${permissionSymbol}</span>
+            <label>${permission.name}</label>
+          `;
+
+          permissionsContainer.appendChild(permissionItem);
+        });
+
+        roleContainer.appendChild(permissionsContainer);
+        permissionsGrid.appendChild(roleContainer);
       });
     };
 
