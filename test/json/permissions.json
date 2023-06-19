@@ -12,13 +12,19 @@
     {
       "name": "Officer",
       "permissions": [
-        // Permissions for Officer role
+        { "name": "Permission 1", "enabled": true },
+        { "name": "Permission 2", "enabled": false },
+        { "name": "Permission 3", "enabled": true },
+        // Add more permissions as needed
       ]
     },
     {
       "name": "Everyone",
       "permissions": [
-        // Permissions for Everyone role
+        { "name": "Permission 1", "enabled": true },
+        { "name": "Permission 2", "enabled": false },
+        { "name": "Permission 3", "enabled": true },
+        // Add more permissions as needed
       ]
     }
   ]
