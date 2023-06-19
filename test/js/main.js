@@ -9,47 +9,24 @@ fetch('json/permissions.json')
       // Clear the permissions grid
       permissionsGrid.innerHTML = '';
 
-      // Iterate over roles
-      data.roles.forEach(role => {
-        const roleContainer = document.createElement('div');
-        roleContainer.className = 'role-container';
-        roleContainer.innerHTML = `<h3>${role.name}</h3>`;
+      // Iterate over permissions
+      data.permissions.forEach(permission => {
+        const permissionItem = document.createElement('div');
+        permissionItem.className = 'permission-item';
+        const permissionSymbol = (role) => role.permissions.includes(permission) ? '✅' : '❌';
 
-        // Iterate over permissions
-        role.permissions.forEach(permission => {
-          const permissionItem = document.createElement('div');
-          permissionItem.className = 'permission-item';
-          const permissionSymbol = permission.enabled ? '✅' : '❌';
+        // Create symbol for each permission for each role
+        permissionItem.innerHTML = `
+          <span>${permissionSymbol('Admin')}</span>
+          <span>${permissionSymbol('Officer')}</span>
+          <span>${permissionSymbol('Everyone')}</span>
+          <label>${permission}</label>
+        `;
 
-          // Create symbol for each permission
-          permissionItem.innerHTML = `
-            <span>${permissionSymbol}</span>
-            <label>${permission.name}</label>
-          `;
-
-          roleContainer.appendChild(permissionItem);
-        });
-
-        permissionsGrid.appendChild(roleContainer);
+        permissionsGrid.appendChild(permissionItem);
       });
     };
 
     // Initial grid update
     updateGrid();
-
-    // Function to toggle permission status
-    const togglePermission = (roleIndex, permissionIndex) => {
-      data.roles[roleIndex].permissions[permissionIndex].enabled = !data.roles[roleIndex].permissions[permissionIndex].enabled;
-      updateGrid();
-    };
-
-    // Add event listeners for permission toggles
-    const permissionItems = document.getElementsByClassName('permission-item');
-    for (let i = 0; i < permissionItems.length; i++) {
-      permissionItems[i].addEventListener('click', function () {
-        const roleIndex = Math.floor(i / role.permissions.length);
-        const permissionIndex = i % role.permissions.length;
-        togglePermission(roleIndex, permissionIndex);
-      });
-    }
   });
