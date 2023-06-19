@@ -1,0 +1,22 @@
+{
+  "admin": {
+    "ManageServer": true,
+    "ManageRoles": true,
+    "ManageChannels": false,
+    "etc": true
+  },
+  "moderator": {
+    "KickMembers": true,
+    "BanMembers": false,
+    "ManageMessages": true,
+    "ManageRoles": true,
+    "etc": false
+  },
+  "member": {
+    "SendMessages": true,
+    "ReadMessages": true,
+    "AddReactions": true,
+    "ManageChannels": false,
+    "etc": true
+  }
+}
