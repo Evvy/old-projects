@@ -1,25 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/main.css">
   <title>Discord Server Permissions Overview</title>
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
-
 <body>
-  <h1>Discord Server Permissions Overview</h1>
+  <div class="container">
+    <h1>Discord Server Permissions Overview</h1>
 
-  <div class="role-buttons">
-    <button class="role-button" data-role="Admin">Admin</button>
-    <button class="role-button" data-role="Officer">Officer</button>
-    <button class="role-button" data-role="Everyone">Everyone</button>
+    <div class="role-buttons">
+      <button class="role-button" id="admin-button">Admin</button>
+      <button class="role-button" id="officer-button">Officer</button>
+      <button class="role-button" id="everyone-button">Everyone</button>
+    </div>
+
+    <div id="permissions-grid" class="permissions-grid"></div>
   </div>
-
-  <div id="permissions-grid"></div>
 
   <script src="js/main.js"></script>
 </body>
-
 </html>
