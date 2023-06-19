@@ -1,15 +1,9 @@
 /* Example styles, customize as needed */
-#permissions-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 10px;
-}
-
 .permission-item {
   display: flex;
   align-items: center;
 }
 
-.permission-item label {
+.permission-item span {
   margin-right: 5px;
 }
