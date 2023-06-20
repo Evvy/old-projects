@@ -25,46 +25,6 @@
     <tbody id="gemTableBody"></tbody>
   </table>
 
-  <script>
-    // JSON data
-    var gemsData = {
-      "gems": [
-        {
-          "name": "Bold Cardinal Ruby",
-          "color": "Red",
-          "stats": ["Strength"]
-        },
-        // ... (other gem objects)
-      ]
-    };
-
-    // Function to populate the table
-    function populateGemTable() {
-      var gemTableBody = document.getElementById("gemTableBody");
-
-      for (var i = 0; i < gemsData.gems.length; i++) {
-        var gem = gemsData.gems[i];
-
-        var row = document.createElement("tr");
-
-        var nameCell = document.createElement("td");
-        nameCell.textContent = gem.name;
-        row.appendChild(nameCell);
-
-        var colorCell = document.createElement("td");
-        colorCell.textContent = gem.color;
-        row.appendChild(colorCell);
-
-        var statsCell = document.createElement("td");
-        statsCell.textContent = gem.stats.join(", ");
-        row.appendChild(statsCell);
-
-        gemTableBody.appendChild(row);
-      }
-    }
-
-    // Call the function to populate the table
-    populateGemTable();
-  </script>
+  <script src="script.js" type="text/javascript"></script>
 </body>
 </html>
