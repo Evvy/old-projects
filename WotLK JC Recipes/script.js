@@ -8,11 +8,7 @@ function populateGemTable(data) {
     var row = document.createElement("tr");
 
     var nameCell = document.createElement("td");
-    var nameLink = document.createElement("a");
-    nameLink.textContent = gem.name;
-    nameLink.href = "#";
-    nameLink.addEventListener("click", sortTable);
-    nameCell.appendChild(nameLink);
+    nameCell.textContent = gem.name;
     row.appendChild(nameCell);
 
     var colorCell = document.createElement("td");
@@ -23,39 +19,16 @@ function populateGemTable(data) {
     statsCell.textContent = gem.stats.join(", ");
     row.appendChild(statsCell);
 
-    var iconCell = document.createElement("td");
-    var iconImage = document.createElement("img");
-    iconImage.src = "https://example.com/" + gem.name.replace(/ /g, "_") + ".jpg"; // Replace example.com with the actual URL for the item icons
-    iconImage.alt = gem.name;
-    iconCell.appendChild(iconImage);
-    row.appendChild(iconCell);
+    var statusCell = document.createElement("td");
+    statusCell.textContent = gem.status;
+    row.appendChild(statusCell);
+
+    var membersCell = document.createElement("td");
+    membersCell.textContent = gem.members.join(", ");
+    row.appendChild(membersCell);
 
     gemTableBody.appendChild(row);
   }
-}
-
-// Sort the table based on gem name
-function sortTable(event) {
-  event.preventDefault();
-  var table = document.getElementById("gemTableBody");
-  var rows = Array.from(table.getElementsByTagName("tr"));
-  var index = Array.from(this.parentNode.parentNode.getElementsByTagName("td")).indexOf(this.parentNode);
-  var sortFunction;
-
-  if (index === 0) {
-    sortFunction = function(a, b) {
-      return a.cells[index].textContent.localeCompare(b.cells[index].textContent);
-    };
-  } else {
-    sortFunction = function(a, b) {
-      return parseInt(a.cells[index].textContent) - parseInt(b.cells[index].textContent);
-    };
-  }
-
-  rows.sort(sortFunction);
-  rows.forEach(function(row) {
-    table.appendChild(row);
-  });
 }
 
 // Fetch the gem data from the JSON file
