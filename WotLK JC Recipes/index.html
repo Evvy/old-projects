@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WoW WotLK Epic Gems</title>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+  <h1>WoW WotLK Epic Gems</h1>
+
+  <table>
+    <tr>
+      <th>Gem Name</th>
+      <th>Color</th>
+      <th>Stats</th>
+    </tr>
+    <tbody id="gemTableBody"></tbody>
+  </table>
+
+  <script>
+    // JSON data
+    var gemsData = {
+      "gems": [
+        {
+          "name": "Bold Cardinal Ruby",
+          "color": "Red",
+          "stats": ["Strength"]
+        },
+        // ... (other gem objects)
+      ]
+    };
+
+    // Function to populate the table
+    function populateGemTable() {
+      var gemTableBody = document.getElementById("gemTableBody");
+
+      for (var i = 0; i < gemsData.gems.length; i++) {
+        var gem = gemsData.gems[i];
+
+        var row = document.createElement("tr");
+
+        var nameCell = document.createElement("td");
+        nameCell.textContent = gem.name;
+        row.appendChild(nameCell);
+
+        var colorCell = document.createElement("td");
+        colorCell.textContent = gem.color;
+        row.appendChild(colorCell);
+
+        var statsCell = document.createElement("td");
+        statsCell.textContent = gem.stats.join(", ");
+        row.appendChild(statsCell);
+
+        gemTableBody.appendChild(row);
+      }
+    }
+
+    // Call the function to populate the table
+    populateGemTable();
+  </script>
+</body>
+</html>
