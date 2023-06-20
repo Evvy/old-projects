@@ -3,162 +3,170 @@
     {
       "name": "Bold Cardinal Ruby",
       "color": "Red",
-      "stats": ["Strength"]
+      "stats": ["Strength"],
+      "icon": "icon_bold_cardinal_ruby.jpg"
     },
     {
       "name": "Delicate Cardinal Ruby",
       "color": "Red",
-      "stats": ["Agility"]
+      "stats": ["Agility"],
+      "icon": "icon_delicate_cardinal_ruby.jpg"
     },
     {
       "name": "Brilliant Cardinal Ruby",
       "color": "Red",
-      "stats": ["Intellect"]
+      "stats": ["Intellect"],
+      "icon": "icon_brilliant_cardinal_ruby.jpg"
     },
     {
       "name": "Runed Cardinal Ruby",
       "color": "Red",
-      "stats": ["Spell Power"]
+      "stats": ["Spell Power"],
+      "icon": "icon_runed_cardinal_ruby.jpg"
+    },
+    {
+      "name": "Energized Eye of Zul",
+      "color": "Red",
+      "stats": ["Hit Rating"],
+      "icon": "icon_energized_eye_of_zul.jpg"
+    },
+    {
+      "name": "Precise Cardinal Ruby",
+      "color": "Red",
+      "stats": ["Expertise Rating"],
+      "icon": "icon_precise_cardinal_ruby.jpg"
+    },
+    {
+      "name": "Flashing Cardinal Ruby",
+      "color": "Red",
+      "stats": ["Parry Rating"],
+      "icon": "icon_flashing_cardinal_ruby.jpg"
+    },
+    {
+      "name": "Subtle Cardinal Ruby",
+      "color": "Red",
+      "stats": ["Dodge Rating"],
+      "icon": "icon_subtle_cardinal_ruby.jpg"
     },
     {
       "name": "Glowing Dreadstone",
       "color": "Purple",
-      "stats": ["Spell Penetration"]
+      "stats": ["Spell Penetration"],
+      "icon": "icon_glowing_dreadstone.jpg"
     },
     {
       "name": "Royal Dreadstone",
       "color": "Purple",
-      "stats": ["Spell Power and Stamina"]
+      "stats": ["Spell Power and Stamina"],
+      "icon": "icon_royal_dreadstone.jpg"
     },
     {
       "name": "Shifting Dreadstone",
       "color": "Purple",
-      "stats": ["Agility and Stamina"]
+      "stats": ["Agility and Stamina"],
+      "icon": "icon_shifting_dreadstone.jpg"
     },
     {
       "name": "Sovereign Dreadstone",
       "color": "Purple",
-      "stats": ["Strength and Stamina"]
+      "stats": ["Strength and Stamina"],
+      "icon": "icon_sovereign_dreadstone.jpg"
+    },
+    {
+      "name": "Balanced Dreadstone",
+      "color": "Purple",
+      "stats": ["Agility and Dodge Rating"],
+      "icon": "icon_balanced_dreadstone.jpg"
+    },
+    {
+      "name": "Infused Amethyst",
+      "color": "Purple",
+      "stats": ["Spell Power and Spell Penetration"],
+      "icon": "icon_infused_amethyst.jpg"
+    },
+    {
+      "name": "Empowered Amethyst",
+      "color": "Purple",
+      "stats": ["Spell Power and Stamina"],
+      "icon": "icon_empowered_amethyst.jpg"
+    },
+    {
+      "name": "Defender's Dreadstone",
+      "color": "Purple",
+      "stats": ["Parry Rating and Stamina"],
+      "icon": "icon_defenders_dreadstone.jpg"
+    },
+    {
+      "name": "Etched Amethyst",
+      "color": "Purple",
+      "stats": ["Strength and Dodge Rating"],
+      "icon": "icon_etched_amethyst.jpg"
     },
     {
       "name": "Inscribed Ametrine",
       "color": "Orange",
-      "stats": ["Attack Power and Strength"]
+      "stats": ["Attack Power and Strength"],
+      "icon": "icon_inscribed_ametrine.jpg"
     },
     {
       "name": "Luminous Ametrine",
       "color": "Orange",
-      "stats": ["Spell Power and Intellect"]
+      "stats": ["Spell Power and Intellect"],
+      "icon": "icon_luminous_ametrine.jpg"
     },
     {
       "name": "Potent Ametrine",
       "color": "Orange",
-      "stats": ["Spell Power and Intellect"]
+      "stats": ["Spell Power and Intellect"],
+      "icon": "icon_potent_ametrine.jpg"
     },
     {
       "name": "Veiled Ametrine",
       "color": "Orange",
-      "stats": ["Spell Power and Spell Penetration"]
+      "stats": ["Spell Power and Dodge Rating"],
+      "icon": "icon_veiled_ametrine.jpg"
     },
     {
-      "name": "Mystic King's Amber",
-      "color": "Yellow",
-      "stats": ["Resilience Rating and Spell Penetration"]
+      "name": "Deadly Ametrine",
+      "color": "Orange",
+      "stats": ["Agility and Crit Rating"],
+      "icon": "icon_deadly_ametrine.jpg"
     },
     {
-      "name": "Quick King's Amber",
-      "color": "Yellow",
-      "stats": ["Haste Rating"]
+      "name": "Glinting Ametrine",
+      "color": "Orange",
+      "stats": ["Agility and Hit Rating"],
+      "icon": "icon_glinting_ametrine.jpg"
     },
     {
-      "name": "Rigid King's Amber",
-      "color": "Yellow",
-      "stats": ["Hit Rating"]
+      "name": "Stark Amethyst",
+      "color": "Purple",
+      "stats": ["Strength and Crit Rating"],
+      "icon": "icon_stark_amethyst.jpg"
     },
     {
-      "name": "Smooth King's Amber",
-      "color": "Yellow",
-      "stats": ["Critical Strike Rating"]
+      "name": "Reckless Ametrine",
+      "color": "Orange",
+      "stats": ["Haste Rating and Spell Power"],
+      "icon": "icon_reckless_ametrine.jpg"
     },
     {
-      "name": "Solid Majestic Zircon",
-      "color": "Blue",
-      "stats": ["Stamina"]
+      "name": "Resolute Ametrine",
+      "color": "Orange",
+      "stats": ["Defense Rating and Stamina"],
+      "icon": "icon_resolute_ametrine.jpg"
     },
     {
-      "name": "Sparkling Majestic Zircon",
-      "color": "Blue",
-      "stats": ["Spirit"]
+      "name": "Fierce Ametrine",
+      "color": "Orange",
+      "stats": ["Agility and Haste Rating"],
+      "icon": "icon_fierce_ametrine.jpg"
     },
     {
-      "name": "Stormy Majestic Zircon",
-      "color": "Blue",
-      "stats": ["Spell Power and Stamina"]
-    },
-    {
-      "name": "Rigid Majestic Zircon",
-      "color": "Blue",
-      "stats": ["Hit Rating"]
-    },
-    {
-      "name": "Solid Sky Sapphire",
-      "color": "Blue",
-      "stats": ["Stamina"]
-    },
-    {
-      "name": "Sparkling Sky Sapphire",
-      "color": "Blue",
-      "stats": ["Spirit"]
-    },
-    {
-      "name": "Stormy Sky Sapphire",
-      "color": "Blue",
-      "stats": ["Spell Power and Stamina"]
-    },
-    {
-      "name": "Rigid Sky Sapphire",
-      "color": "Blue",
-      "stats": ["Hit Rating"]
-    },
-    {
-      "name": "Energized Eye of Zul",
-      "color": "Yellow",
-      "stats": ["Intellect and Haste Rating"]
-    },
-    {
-      "name": "Forceful Eye of Zul",
-      "color": "Yellow",
-      "stats": ["Strength and Haste Rating"]
-    },
-    {
-      "name": "Nimble Eye of Zul",
-      "color": "Yellow",
-      "stats": ["Agility and Dodge Rating"]
-    },
-    {
-      "name": "Reckless Eye of Zul",
-      "color": "Yellow",
-      "stats": ["Attack Power and Haste Rating"]
-    },
-    {
-      "name": "Energized Twilight Opal",
-      "color": "Green",
-      "stats": ["Intellect and Haste Rating"]
-    },
-    {
-      "name": "Forceful Twilight Opal",
-      "color": "Green",
-      "stats": ["Strength and Haste Rating"]
-    },
-    {
-      "name": "Nimble Twilight Opal",
-      "color": "Green",
-      "stats": ["Agility and Dodge Rating"]
-    },
-    {
-      "name": "Reckless Twilight Opal",
-      "color": "Green",
-      "stats": ["Attack Power and Haste Rating"]
+      "name": "Stalwart Ametrine",
+      "color": "Orange",
+      "stats": ["Defense Rating and Dodge Rating"],
+      "icon": "icon_stalwart_ametrine.jpg"
     }
   ]
 }
