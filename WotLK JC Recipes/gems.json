@@ -1,0 +1,164 @@
+{
+  "gems": [
+    {
+      "name": "Bold Cardinal Ruby",
+      "color": "Red",
+      "stats": ["Strength"]
+    },
+    {
+      "name": "Delicate Cardinal Ruby",
+      "color": "Red",
+      "stats": ["Agility"]
+    },
+    {
+      "name": "Brilliant Cardinal Ruby",
+      "color": "Red",
+      "stats": ["Intellect"]
+    },
+    {
+      "name": "Runed Cardinal Ruby",
+      "color": "Red",
+      "stats": ["Spell Power"]
+    },
+    {
+      "name": "Glowing Dreadstone",
+      "color": "Purple",
+      "stats": ["Spell Penetration"]
+    },
+    {
+      "name": "Royal Dreadstone",
+      "color": "Purple",
+      "stats": ["Spell Power and Stamina"]
+    },
+    {
+      "name": "Shifting Dreadstone",
+      "color": "Purple",
+      "stats": ["Agility and Stamina"]
+    },
+    {
+      "name": "Sovereign Dreadstone",
+      "color": "Purple",
+      "stats": ["Strength and Stamina"]
+    },
+    {
+      "name": "Inscribed Ametrine",
+      "color": "Orange",
+      "stats": ["Attack Power and Strength"]
+    },
+    {
+      "name": "Luminous Ametrine",
+      "color": "Orange",
+      "stats": ["Spell Power and Intellect"]
+    },
+    {
+      "name": "Potent Ametrine",
+      "color": "Orange",
+      "stats": ["Spell Power and Intellect"]
+    },
+    {
+      "name": "Veiled Ametrine",
+      "color": "Orange",
+      "stats": ["Spell Power and Spell Penetration"]
+    },
+    {
+      "name": "Mystic King's Amber",
+      "color": "Yellow",
+      "stats": ["Resilience Rating and Spell Penetration"]
+    },
+    {
+      "name": "Quick King's Amber",
+      "color": "Yellow",
+      "stats": ["Haste Rating"]
+    },
+    {
+      "name": "Rigid King's Amber",
+      "color": "Yellow",
+      "stats": ["Hit Rating"]
+    },
+    {
+      "name": "Smooth King's Amber",
+      "color": "Yellow",
+      "stats": ["Critical Strike Rating"]
+    },
+    {
+      "name": "Solid Majestic Zircon",
+      "color": "Blue",
+      "stats": ["Stamina"]
+    },
+    {
+      "name": "Sparkling Majestic Zircon",
+      "color": "Blue",
+      "stats": ["Spirit"]
+    },
+    {
+      "name": "Stormy Majestic Zircon",
+      "color": "Blue",
+      "stats": ["Spell Power and Stamina"]
+    },
+    {
+      "name": "Rigid Majestic Zircon",
+      "color": "Blue",
+      "stats": ["Hit Rating"]
+    },
+    {
+      "name": "Solid Sky Sapphire",
+      "color": "Blue",
+      "stats": ["Stamina"]
+    },
+    {
+      "name": "Sparkling Sky Sapphire",
+      "color": "Blue",
+      "stats": ["Spirit"]
+    },
+    {
+      "name": "Stormy Sky Sapphire",
+      "color": "Blue",
+      "stats": ["Spell Power and Stamina"]
+    },
+    {
+      "name": "Rigid Sky Sapphire",
+      "color": "Blue",
+      "stats": ["Hit Rating"]
+    },
+    {
+      "name": "Energized Eye of Zul",
+      "color": "Yellow",
+      "stats": ["Intellect and Haste Rating"]
+    },
+    {
+      "name": "Forceful Eye of Zul",
+      "color": "Yellow",
+      "stats": ["Strength and Haste Rating"]
+    },
+    {
+      "name": "Nimble Eye of Zul",
+      "color": "Yellow",
+      "stats": ["Agility and Dodge Rating"]
+    },
+    {
+      "name": "Reckless Eye of Zul",
+      "color": "Yellow",
+      "stats": ["Attack Power and Haste Rating"]
+    },
+    {
+      "name": "Energized Twilight Opal",
+      "color": "Green",
+      "stats": ["Intellect and Haste Rating"]
+    },
+    {
+      "name": "Forceful Twilight Opal",
+      "color": "Green",
+      "stats": ["Strength and Haste Rating"]
+    },
+    {
+      "name": "Nimble Twilight Opal",
+      "color": "Green",
+      "stats": ["Agility and Dodge Rating"]
+    },
+    {
+      "name": "Reckless Twilight Opal",
+      "color": "Green",
+      "stats": ["Attack Power and Haste Rating"]
+    }
+  ]
+}
