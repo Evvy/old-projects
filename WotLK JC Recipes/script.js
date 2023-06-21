@@ -15,7 +15,7 @@ fetch('gems.json')
         <h3>${gem.name}</h3>
         <p><strong>Color:</strong> ${gem.color}</p>
         <p><strong>Stats:</strong> ${gem.stats}</p>
-        <p><strong>Status:</strong> ${gem.status ? 'Active' : 'Inactive'}</p>
+        <p><strong>Status:</strong> ${gem.status ? '✔️' : '❌'}</p>
         <p><strong>Members:</strong> ${gem.members.length}</p>
         <img src="${gem.icon}" alt="Gem Icon">`;
 
