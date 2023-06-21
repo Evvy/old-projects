@@ -22,8 +22,11 @@ fetch('gems.json')
             <p class="currency">Cost: 4<img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_variety_01.gif" alt="inv_misc_gem_variety_01"></p>
             <p>Members:${gem.members.length}</p>
             <p>${gem.members.map(member => member.name)}</p>
+            <div class="members">
+              ${gem.members.map(member => `<p class="${member.class.toLowerCase()}">${member.name}</p>`).join('')}
+            </div>
         </div>
-        `;
+      `;
 
       // Append the gem card to the container
       gemsContainer.appendChild(gemCard);
