@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 #gems-container {
     display: flex;
     flex-wrap: wrap;
@@ -7,5 +13,6 @@
 .gem-card {
     border: 1px solid #ccc;
     padding: 1em;
+    gap: 1em;
     width: 200px;
 }
