@@ -22,7 +22,7 @@ fetch('gems.json')
             <p class="currency">Cost: 4<img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_variety_01.gif" alt="inv_misc_gem_variety_01"></p>
             <p>Members:${gem.members.length}</p>
             ${gem.members.forEach(member => 
-              "<p>Name:" + member.name + "</p>"
+              console.log("<p>Name:" + member.name + "</p>")
             )}
         </div>
         `;
