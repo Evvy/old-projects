@@ -13,13 +13,13 @@ fetch('gems.json')
       // Populate the gem card with data
       gemCard.innerHTML = `
         <div class="left-divider">
-            <img src="https://wow.zamimg.com/images/wow/icons/large/${gem.icon}.jpg" alt="${gem.icon}">
+            <img src="media/${gem.icon}.jpg" alt="${gem.icon}">
             <p>${gem.color}</p>
         </div>
         <div class="right-divider">
             <h1 class="card-title">${gem.name} ${gem.status ? '✔️' : '❌'}</h3>
             <p>${gem.stats}</p>
-            <p class="currency">Cost: 4<img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_variety_01.gif" alt="inv_misc_gem_variety_01"></p>
+            <p class="currency">Cost: 4<img src="media/inv_misc_gem_variety_01.gif" alt="inv_misc_gem_variety_01"></p>
             <div class="members">
               ${gem.members.map(member => `<p class="classes ${member.class.toLowerCase()}"><span class="icon"></span>${member.name}</p>`).join('')}
             </div>
