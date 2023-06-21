@@ -17,8 +17,8 @@
       "stats": "+23 Spell Power",
       "status": true,
       "members": [{
-          "name": "Evvy",
-          "class": "Paladin"
+          "name": "Nayti",
+          "class": "Druid"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -26,14 +26,10 @@
       "name": "Bold Cardinal Ruby",
       "color": "Red",
       "stats": "+20 Strength",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "Rahgeal",
-          "class": "Hunter"
-      },
-      {
-          "name": "Evvy",
-          "class": "Paladin"
+          "name": "Nayti",
+          "class": "Druid"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -41,10 +37,10 @@
       "name": "Fractured Cardinal Ruby",
       "color": "Red",
       "stats": "+20 Armor Penetration Rating",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Nayti",
+          "class": "Druid"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
