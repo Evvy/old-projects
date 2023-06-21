@@ -20,7 +20,6 @@ fetch('gems.json')
             <h1 class="card-title">${gem.name} ${gem.status ? '✔️' : '❌'}</h3>
             <p>${gem.stats}</p>
             <p class="currency">Cost: 4<img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_variety_01.gif" alt="inv_misc_gem_variety_01"></p>
-            <p>Members:${gem.members.length}</p>
             <div class="members">
               ${gem.members.map(member => `<p class="${member.class.toLowerCase()}"><span class="icon"></span>${member.name}</p>`).join('')}
             </div>
