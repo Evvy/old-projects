@@ -6,8 +6,8 @@
       "stats": "+10 All Stats",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
       }],
       "icon": "inv_misc_gem_pearl_12"
     },
@@ -19,6 +19,10 @@
       "members": [{
           "name": "Nayti",
           "class": "Druid"
+      },
+      {
+          "name": "Esminel",
+          "class": "Priest"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -30,6 +34,14 @@
       "members": [{
           "name": "Nayti",
           "class": "Druid"
+      },
+      {
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
+      },
+      {
+          "name": "Esminel",
+          "class": "Priest"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -171,8 +183,8 @@
       "stats": "+30 Stamina",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_42"
     },
@@ -237,8 +249,8 @@
       "stats": "+10 Strength and +10 Critical Strike Rating",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Esminel",
+          "class": "Priest"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -292,8 +304,8 @@
       "stats": "+10 Strength and +10 Haste Rating",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -490,8 +502,8 @@
       "stats": "+10 Strength and +15 Stamina",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_40"
     },
