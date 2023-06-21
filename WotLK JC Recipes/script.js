@@ -17,7 +17,7 @@ fetch('gems.json')
         <p><strong>Stats:</strong> ${gem.stats}</p>
         <p><strong>Status:</strong> ${gem.status ? '✔️' : '❌'}</p>
         <p><strong>Members:</strong> ${gem.members.length}</p>
-        <img src="${gem.icon}" alt="Gem Icon">`;
+        <img src="https://wow.zamimg.com/images/wow/icons/large/${gem.icon}" alt="${gem.icon}">`;
 
       // Append the gem card to the container
       gemsContainer.appendChild(gemCard);
