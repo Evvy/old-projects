@@ -94,7 +94,7 @@
     },
     {
       "name": "Flashing Cardinal Ruby",
-      "color": "Purple",
+      "color": "Red",
       "stats": "+20 Parry Rating",
       "status": false,
       "members": [{
