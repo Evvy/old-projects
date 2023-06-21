@@ -125,3 +125,11 @@ h1.card-title {
     color: #a335ee !important;
     font-size: 1rem;
 }
+
+p {
+  font-size: 14px;
+}
+
+p.currency {
+  display: flex;
+}
