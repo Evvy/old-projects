@@ -1,45 +1,26 @@
-// Function to populate the table with gem data
-function populateGemTable(data) {
-  var gemTableBody = document.getElementById("gemTableBody");
+// Fetch the JSON file
+fetch('gems.json')
+  .then(response => response.json())
+  .then(data => {
+    const gemsContainer = document.getElementById('gems-container');
 
-  for (var i = 0; i < data.gems.length; i++) {
-    var gem = data.gems[i];
+    // Loop through the gems data
+    data.gems.forEach(gem => {
+      // Create a gem card element
+      const gemCard = document.createElement('div');
+      gemCard.className = 'gem-card';
 
-    var row = document.createElement("tr");
+      // Populate the gem card with data
+      gemCard.innerHTML = `
+        <h3>${gem.name}</h3>
+        <p><strong>Color:</strong> ${gem.color}</p>
+        <p><strong>Stats:</strong> ${gem.stats}</p>
+        <p><strong>Status:</strong> ${gem.status ? 'Active' : 'Inactive'}</p>
+        <p><strong>Members:</strong> ${gem.members.length}</p>
+        <img src="${gem.icon}" alt="Gem Icon">
 
-    var nameCell = document.createElement("td");
-    nameCell.textContent = gem.name;
-    row.appendChild(nameCell);
-
-    var colorCell = document.createElement("td");
-    colorCell.textContent = gem.color;
-    row.appendChild(colorCell);
-
-    var statsCell = document.createElement("td");
-    statsCell.textContent = gem.stats.join(", ");
-    row.appendChild(statsCell);
-
-    var statusCell = document.createElement("td");
-    statusCell.textContent = gem.status;
-    row.appendChild(statusCell);
-
-    var membersCell = document.createElement("td");
-    membersCell.textContent = gem.members.join(", ");
-    row.appendChild(membersCell);
-
-    gemTableBody.appendChild(row);
-  }
-}
-
-// Fetch the gem data from the JSON file
-fetch("gems.json")
-  .then(function(response) {
-    return response.json();
+      // Append the gem card to the container
+      gemsContainer.appendChild(gemCard);
+    });
   })
-  .then(function(data) {
-    // Call the function to populate the table with gem data
-    populateGemTable(data);
-  })
-  .catch(function(error) {
-    console.log("Error fetching gem data:", error);
-  });
+  .catch(error => console.log(error
