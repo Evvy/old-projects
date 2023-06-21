@@ -21,7 +21,7 @@ fetch('gems.json')
             <p>${gem.stats}</p>
             <p class="currency">Cost: 4<img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_variety_01.gif" alt="inv_misc_gem_variety_01"></p>
             <div class="members">
-              ${gem.members.map(member => `<p class="${member.class.toLowerCase()}"><span class="icon"></span>${member.name}</p>`).join('')}
+              ${gem.members.map(member => `<p class="classes ${member.class.toLowerCase()}"><span class="icon"></span>${member.name}</p>`).join('')}
             </div>
         </div>
       `;
