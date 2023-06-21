@@ -14,7 +14,7 @@ fetch('gems.json')
       gemCard.innerHTML = `
         <div class="left-divider">
             <img src="https://wow.zamimg.com/images/wow/icons/large/${gem.icon}.jpg" alt="${gem.icon}">
-            <p>🎨 ${gem.color}</p>
+            <p>${gem.color}</p>
         </div>
         <div class="right-divider">
             <h1 class="card-title">${gem.name} ${gem.status ? '✔️' : '❌'}</h3>
