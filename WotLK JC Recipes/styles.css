@@ -100,6 +100,7 @@ html {
     font-size: 0.75rem;
     font-family: Verdana,"Open Sans",Arial,"Helvetica Neue",Helvetica,sans-serif;
     display: flex;
+    gap: 1rem;
 }
 
 .gem-card:hover {
