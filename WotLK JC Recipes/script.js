@@ -19,6 +19,7 @@ fetch('gems.json')
         <div class="right-divider">
             <h1 class="card-title">${gem.name} ${gem.status ? '✔️' : '❌'}</h3>
             <p>${gem.stats}</p>
+            <p>Cost: 4<img src="https://wow.zamimg.com/images/wow/icons/small/inv_misc_gem_variety_01.jpg" alt="inv_misc_gem_variety_01"></p>
             <p>Members:${gem.members.length}</p>
         </div>
         `;
