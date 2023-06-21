@@ -79,12 +79,12 @@ select {
 #gems-container {
     display: flex;
     flex-wrap: wrap;
+    gap: 1em;
     justify-content: center;
 }
 
 .gem-card {
     border: 1px solid #ccc;
     padding: 1em;
-    gap: 1em;
     width: 200px;
 }
