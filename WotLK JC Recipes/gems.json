@@ -2,14 +2,14 @@
   "gems": [
     {
       "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "color": "Prismatic",
+      "stats": "+10 All Stats",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_misc_gem_pearl_12"
     },
     {
       "name": "Runed Cardinal Ruby",
@@ -23,59 +23,59 @@
       "icon": "inv_jewelcrafting_gem_37"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Bold Cardinal Ruby",
+      "color": "Red",
+      "stats": "+20 Strength",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_37"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Fractured Cardinal Ruby",
+      "color": "Red",
+      "stats": "+20 Armor Penetration Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_37"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Delicate Cardinal Ruby",
+      "color": "Red",
+      "stats": "+20 Agility",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_37"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Bright Cardinal Ruby",
+      "color": "Red",
+      "stats": "+40 Attack Power",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_37"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Precise Cardinal Ruby",
+      "color": "Red",
+      "stats": "+20 Expertise Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_37"
     },
     {
       "name": "Nightmare Tear",
