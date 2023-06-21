@@ -28,8 +28,12 @@
       "stats": "+20 Strength",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
+      },
+      {
+          "name": "Evvy",
+          "class": "Paladin"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
