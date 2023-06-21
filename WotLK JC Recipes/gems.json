@@ -595,214 +595,214 @@
       "icon": "inv_jewelcrafting_gem_40"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Vivid Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Hit Rating and +15 Stamina",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Enduring Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Defense Rating and +15 Stamina",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Opaque Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Resilience Rating and +5 Mana every 5 seconds",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Dazzling Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Intellect and +5 Mana every 5 seconds",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Shattered Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Haste Rating and +13 Spell Penetration",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Intricate Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Haste Rating and +10 Spirit",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Steady Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Resilience Rating and +15 Stamina",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Energized Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Haste Rating and +5 Mana every 5 seconds",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Forceful Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Haste Rating and +15 Stamina",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Tense Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Hit Rating and +13 Spell Penetration",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Shining Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Hit Rating and +10 Spirit",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Misty Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Critical Strike Rating and +10 Spirit",
       "status": false,
       "members": [{
 
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Turbid Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Resilience Rating and +10 Spirit",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Timeless Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Intellect and +15 Stamina",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Jagged Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Critical Strike Rating and +15 Stamina",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Seer's Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Intellect and +10 Spirit",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Radiant Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Critical Strike Rating and +13 Spell Penetration",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Sundered Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Critical Strike Rating and +5 Mana every 5 seconds",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Lambent Eye of Zul",
+      "color": "Green",
+      "stats": "+10 Hit Rating and +5 Mana every 5 seconds",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_41"
     }
   ]
 }
