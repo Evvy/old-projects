@@ -12,11 +12,10 @@ fetch('gems.json')
 
       // Populate the gem card with data
       gemCard.innerHTML = `
-        <h3>${gem.name}</h3>
-        <p><strong>Color:</strong> ${gem.color}</p>
-        <p><strong>Stats:</strong> ${gem.stats}</p>
-        <p><strong>Status:</strong> ${gem.status ? '✔️' : '❌'}</p>
-        <p><strong>Members:</strong> ${gem.members.length}</p>
+        <h3>${gem.name} ${gem.status ? '✔️' : '❌'}</h3>
+        <p><strong>Color:</strong>${gem.color}</p>
+        <p><strong>${gem.stats}</strong></p>
+        <p><strong>Members:</strong>${gem.members.length}</p>
         <img src="https://wow.zamimg.com/images/wow/icons/large/${gem.icon}.jpg" alt="${gem.icon}">`;
 
       // Append the gem card to the container
