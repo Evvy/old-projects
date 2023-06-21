@@ -12,7 +12,7 @@ fetch('gems.json')
 
       // Populate the gem card with data
       gemCard.innerHTML = `
-        <h3>${gem.name} ${gem.status ? '✔️' : '❌'}</h3>
+        <h1 class="card-title">${gem.name} ${gem.status ? '✔️' : '❌'}</h3>
         <p><strong>Color:</strong>${gem.color}</p>
         <p><strong>${gem.stats}</strong></p>
         <p><strong>Members:</strong>${gem.members.length}</p>
