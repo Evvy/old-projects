@@ -136,6 +136,10 @@ p.currency {
     gap: 0.2rem;
 }
 
+.classes {
+    display: flex;
+}
+
 .death-knight {
   color: #C41E3A;
 }
