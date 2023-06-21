@@ -100,114 +100,114 @@
       "icon": "inv_jewelcrafting_gem_37"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Quick King's Amber",
+      "color": "Yellow",
+      "stats": "+20 Haste Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_38"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Mystic King's Amber",
+      "color": "Yellow",
+      "stats": "+20 Resilience Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_38"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Brilliant King's Amber",
+      "color": "Yellow",
+      "stats": "+20 Intellect",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_38"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Rigid King's Amber",
+      "color": "Yellow",
+      "stats": "+20 Hit Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_38"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Thick King's Amber",
+      "color": "Yellow",
+      "stats": "+20 Defense Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_38"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Smooth King's Amber",
+      "color": "Yellow",
+      "stats": "+20 Critical Strike Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_38"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Solid Majestic Zircon",
+      "color": "Blue",
+      "stats": "+30 Stamina",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_42"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Stormy Majestic Zircon",
+      "color": "Blue",
+      "stats": "+25 Spell Penetration",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_42"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Lustrous Majestic Zircon",
+      "color": "Blue",
+      "stats": "+10 Mana every 5 seconds",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_42"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Sparkling Majestic Zircon",
+      "color": "Blue",
+      "stats": "+20 Spirit",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_42"
     },
     {
       "name": "Nightmare Tear",
