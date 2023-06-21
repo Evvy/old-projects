@@ -105,11 +105,13 @@ html {
 .left-divider {
   display: flex;
   gap: 0.2em;
+  flex-direction: column;
 }
 
 .right-divider {
   display: flex;
   gap: 0.2em;
+  flex-direction: column;
 }
 
 h1.card-title {
