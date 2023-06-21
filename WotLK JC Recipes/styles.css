@@ -93,6 +93,7 @@ select {
     background-size: cover;
     background-position: center;
     color: #fff;
+    font-size: 0.75em;
     font-family: Verdana,"Open Sans",Arial,"Helvetica Neue",Helvetica,sans-serif;
 }
 
