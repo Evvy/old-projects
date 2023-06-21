@@ -78,26 +78,26 @@
       "icon": "inv_jewelcrafting_gem_37"
     },
     {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
+      "name": "Subtle Cardinal Ruby",
+      "color": "Red",
+      "stats": "+20 Dodge Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_37"
     },
     {
-      "name": "Nightmare Tear",
+      "name": "Flashing Cardinal Ruby",
       "color": "Purple",
-      "stats": "+x Stats",
+      "stats": "+20 Parry Rating",
       "status": false,
       "members": [{
           "name": "",
           "class": ""
       }],
-      "icon": ""
+      "icon": "inv_jewelcrafting_gem_37"
     },
     {
       "name": "Nightmare Tear",
