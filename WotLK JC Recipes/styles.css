@@ -101,6 +101,16 @@ html {
     font-family: Verdana,"Open Sans",Arial,"Helvetica Neue",Helvetica,sans-serif;
 }
 
+.left-divider {
+  display: flex;
+  gap: 0.2em;
+}
+
+.right-divider {
+  display: flex;
+  gap: 0.2em;
+}
+
 h1.card-title {
     color: #a335ee !important;
     font-size: 1rem;
