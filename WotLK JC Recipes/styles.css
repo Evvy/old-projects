@@ -91,7 +91,7 @@ html {
 .gem-card {
     border: 1px solid #ccc;
     padding: 1rem;
-    width: 300px;
+    /*width: 300px;*/
     border-radius: 5px;
     background-color: transparent; /* Set the background color to transparent */
     background-image: url("https://wow.zamimg.com/images/wow/tooltip.png");
