@@ -125,10 +125,10 @@
       "name": "Brilliant King's Amber",
       "color": "Yellow",
       "stats": "+20 Intellect",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Evvy",
+          "class": "Paladin"
       }],
       "icon": "inv_jewelcrafting_gem_38"
     },
