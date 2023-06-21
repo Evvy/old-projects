@@ -135,3 +135,52 @@ p.currency {
     align-items: center;
     gap: 0.2rem;
 }
+
+.death-knight {
+  color: #C41E3A;
+}
+
+/* Druid */
+.druid {
+  color: #FF7D0A;
+}
+
+/* Hunter */
+.hunter {
+  color: #ABD473;
+}
+
+/* Mage */
+.mage {
+  color: #69CCF0;
+}
+
+/* Paladin */
+.paladin {
+  color: #F58CBA;
+}
+
+/* Priest */
+.priest {
+  color: #FFFFFF;
+}
+
+/* Rogue */
+.rogue {
+  color: #FFF569;
+}
+
+/* Shaman */
+.shaman {
+  color: #0070DE;
+}
+
+/* Warlock */
+.warlock {
+  color: #9482C9;
+}
+
+/* Warrior */
+.warrior {
+  color: #C79C6E;
+}
