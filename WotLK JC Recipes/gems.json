@@ -1,588 +1,734 @@
 {
-  "gems": [
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    },
-    {
-      name: "Nightmare Tear",
-      color: "Purple",
-      stats: "+x Stats",
-      status: false,
-      members: [],
-      icon: ""
-    }
-  ]
+   "gems":[
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      },
+      {
+         "name":"Nightmare Tear",
+         "color":"Purple",
+         "stats":"+x Stats",
+         "status":false,
+         "members":[
+            
+         ],
+         "icon":""
+      }
+   ]
 }
