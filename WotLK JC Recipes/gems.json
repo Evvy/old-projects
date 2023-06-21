@@ -4,7 +4,7 @@
       "name": "Nightmare Tear",
       "color": "Any",
       "stats": "+10 All Stats",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Kamìkaze",
           "class": "Death-Knight"
@@ -181,7 +181,7 @@
       "name": "Solid Majestic Zircon",
       "color": "Blue",
       "stats": "+30 Stamina",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Kamìkaze",
           "class": "Death-Knight"
@@ -247,7 +247,7 @@
       "name": "Inscribed Ametrine",
       "color": "Orange",
       "stats": "+10 Strength and +10 Critical Strike Rating",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Esminel",
           "class": "Priest"
@@ -302,7 +302,7 @@
       "name": "Fierce Ametrine",
       "color": "Orange",
       "stats": "+10 Strength and +10 Haste Rating",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Kamìkaze",
           "class": "Death-Knight"
@@ -500,7 +500,7 @@
       "name": "Sovereign Dreadstone",
       "color": "Purple",
       "stats": "+10 Strength and +15 Stamina",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Kamìkaze",
           "class": "Death-Knight"
