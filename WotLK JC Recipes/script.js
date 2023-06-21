@@ -23,4 +23,4 @@ fetch('gems.json')
       gemsContainer.appendChild(gemCard);
     });
   })
-  .catch(error => console.log(error
+  .catch(error => console.log(error));
