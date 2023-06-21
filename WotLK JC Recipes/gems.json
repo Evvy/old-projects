@@ -2,7 +2,7 @@
   "gems": [
     {
       "name": "Nightmare Tear",
-      "color": "Prismatic",
+      "color": "Any",
       "stats": "+10 All Stats",
       "status": false,
       "members": [{
