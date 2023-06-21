@@ -5,10 +5,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -16,21 +16,10 @@
       "color": "Red",
       "stats": "+23 Spell Power",
       "status": true,
-      "members": [
+      "members": [{
           "name": "Evvy",
           "class": "Paladin"
-      ],
-      "icon": "inv_jewelcrafting_gem_37"
-    },
-    {
-      "name": "Nightmare Tear",
-      "color": "Purple",
-      "stats": "+x Stats",
-      "status": false,
-      "members": [
-          "name": "",
-          "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -38,10 +27,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -49,10 +38,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -60,10 +49,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -71,10 +60,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -82,10 +71,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -93,10 +82,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -104,10 +93,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -115,10 +104,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -126,10 +115,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -137,10 +126,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -148,10 +137,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -159,10 +148,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -170,10 +159,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -181,10 +170,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -192,10 +181,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -203,10 +192,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -214,10 +203,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -225,10 +214,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -236,10 +225,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -247,10 +236,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -258,10 +247,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -269,10 +258,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -280,10 +269,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -291,10 +280,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -302,10 +291,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -313,10 +302,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -324,10 +313,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -335,10 +324,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -346,10 +335,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -357,10 +346,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -368,10 +357,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -379,10 +368,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -390,10 +379,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -401,10 +390,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -412,10 +401,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -423,10 +412,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -434,10 +423,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -445,10 +434,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -456,10 +445,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -467,10 +456,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -478,10 +467,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -489,10 +478,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -500,10 +489,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -511,10 +500,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -522,10 +511,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -533,10 +522,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -544,10 +533,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -555,10 +544,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -566,10 +555,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -577,10 +566,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -588,10 +577,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -599,10 +588,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -610,10 +599,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -621,10 +610,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -632,10 +621,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -643,10 +632,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -654,10 +643,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -665,10 +654,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -676,10 +665,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -687,10 +676,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -698,10 +687,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -709,10 +698,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -720,11 +709,22 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
+          "name": "",
+          "class": ""
+      }],
+      "icon": ""
+    },
+    {
+      "name": "Nightmare Tear",
+      "color": "Purple",
+      "stats": "+x Stats",
+      "status": false,
+      "members": [{
 
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -732,10 +732,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -743,10 +743,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -754,10 +754,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -765,10 +765,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -776,10 +776,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -787,10 +787,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     },
     {
@@ -798,10 +798,10 @@
       "color": "Purple",
       "stats": "+x Stats",
       "status": false,
-      "members": [
+      "members": [{
           "name": "",
           "class": ""
-      ],
+      }],
       "icon": ""
     }
   ]
