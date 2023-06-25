@@ -25,6 +25,7 @@ fetch('gems.json')
             </div>
         </div>
       `;
+      gemCard.classList.add(${gem.status ? 'status-yes' : 'status-no'});
 
       // Append the gem card to the container
       gemsContainer.appendChild(gemCard);
