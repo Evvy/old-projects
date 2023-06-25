@@ -23,6 +23,10 @@
       {
           "name": "Esminel",
           "class": "Priest"
+      },
+      {
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -53,6 +57,10 @@
       "members": [{
           "name": "Nayti",
           "class": "Druid"
+      },
+      {
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -227,8 +235,8 @@
       "stats": "+12 Spell Power and +10 Haste Rating",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Evvy",
+          "class": "Paladin"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -282,8 +290,8 @@
       "stats": "+10 Agility and +10 Critical Strike Rating",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Evvy",
+          "class": "Paladin"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -469,8 +477,8 @@
       "stats": "+12 Spell Power and +10 Spirit",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Evvy",
+          "class": "Paladin"
       }],
       "icon": "inv_jewelcrafting_gem_40"
     },
@@ -491,8 +499,8 @@
       "stats": "+10 Agility and +15 Stamina",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_40"
     },
@@ -612,8 +620,8 @@
       "stats": "+10 Hit Rating and +15 Stamina",
       "status": false,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Evvy",
+          "class": "Paladin"
       }],
       "icon": "inv_jewelcrafting_gem_41"
     },
