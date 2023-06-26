@@ -141,101 +141,111 @@ p.currency {
 }
 
 .death-knight {
-  color: #C41E3A;
+    color: #C41E3A;
 }
 
 /* Druid */
 .druid {
-  color: #FF7D0A;
+    color: #FF7D0A;
 }
 
 /* Hunter */
 .hunter {
-  color: #ABD473;
+    color: #ABD473;
 }
 
 /* Mage */
 .mage {
-  color: #69CCF0;
+    color: #69CCF0;
 }
 
 /* Paladin */
 .paladin {
-  color: #F58CBA;
+    color: #F58CBA;
 }
 
 /* Priest */
 .priest {
-  color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 /* Rogue */
 .rogue {
-  color: #FFF569;
+    color: #FFF569;
 }
 
 /* Shaman */
 .shaman {
-  color: #0070DE;
+    color: #0070DE;
 }
 
 /* Warlock */
 .warlock {
-  color: #9482C9;
+    color: #9482C9;
 }
 
 /* Warrior */
 .warrior {
-  color: #C79C6E;
+    color: #C79C6E;
 }
 
 /* Class Icons */
 .icon {
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  background-position: center;
-  vertical-align: middle;
-  margin-right: 5px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    vertical-align: middle;
+    margin-right: 5px;
 }
 
 .death-knight .icon {
-  background-image: url('media/classicon_deathknight.gif');
+    background-image: url('media/classicon_deathknight.gif');
 }
 
 .druid .icon {
-  background-image: url('media/classicon_druid.gif');
+    background-image: url('media/classicon_druid.gif');
 }
 
 .hunter .icon {
-  background-image: url('media/classicon_hunter.gif');
+    background-image: url('media/classicon_hunter.gif');
 }
 
 .mage .icon {
-  background-image: url('media/classicon_mage.gif');
+    background-image: url('media/classicon_mage.gif');
 }
 
 .paladin .icon {
-  background-image: url('media/classicon_paladin.gif');
+    background-image: url('media/classicon_paladin.gif');
 }
 
 .priest .icon {
-  background-image: url('media/classicon_priest.gif');
+    background-image: url('media/classicon_priest.gif');
 }
 
 .rogue .icon {
-  background-image: url('media/classicon_rogue.gif');
+    background-image: url('media/classicon_rogue.gif');
 }
 
 .shaman .icon {
-  background-image: url('media/classicon_shaman.gif');
+    background-image: url('media/classicon_shaman.gif');
 }
 
 .warlock .icon {
-  background-image: url('media/classicon_warlock.gif');
+    background-image: url('media/classicon_warlock.gif');
 }
 
 .warrior .icon {
-  background-image: url('media/classicon_warrior.gif');
+    background-image: url('media/classicon_warrior.gif');
+}
+
+.status-no {
+    border: 1px solid #F03A17;
+    box-shadow: 0px 0px 10px 3px rgb(235 22 22 / 70%);
+}
+
+.status-yes {
+    border: 1px solid #16C60C;
+    box-shadow: 0px 0px 10px 3px rgb(22 235 49 / 70%);
 }
