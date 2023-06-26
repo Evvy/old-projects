@@ -233,7 +233,7 @@
       "name": "Reckless Ametrine",
       "color": "Orange",
       "stats": "+12 Spell Power and +10 Haste Rating",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Evvy",
           "class": "Paladin"
@@ -288,7 +288,7 @@
       "name": "Deadly Ametrine",
       "color": "Orange",
       "stats": "+10 Agility and +10 Critical Strike Rating",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Evvy",
           "class": "Paladin"
@@ -475,7 +475,7 @@
       "name": "Purified Dreadstone",
       "color": "Purple",
       "stats": "+12 Spell Power and +10 Spirit",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Evvy",
           "class": "Paladin"
@@ -497,7 +497,7 @@
       "name": "Shifting Dreadstone",
       "color": "Purple",
       "stats": "+10 Agility and +15 Stamina",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Kamìkaze",
           "class": "Death-Knight"
@@ -618,7 +618,7 @@
       "name": "Vivid Eye of Zul",
       "color": "Green",
       "stats": "+10 Hit Rating and +15 Stamina",
-      "status": false,
+      "status": true,
       "members": [{
           "name": "Evvy",
           "class": "Paladin"
