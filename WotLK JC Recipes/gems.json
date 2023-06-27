@@ -252,10 +252,10 @@
       "name": "Veiled Ametrine",
       "color": "Orange",
       "stats": "+12 Spell Power and +10 Hit Rating",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -351,10 +351,10 @@
       "name": "Glinting Ametrine",
       "color": "Orange",
       "stats": "+10 Agility and +10 Hit Rating",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -362,10 +362,10 @@
       "name": "Etched Ametrine",
       "color": "Orange",
       "stats": "+10 Strength and +10 Hit Rating",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -498,10 +498,10 @@
       "name": "Royal Dreadstone",
       "color": "Purple",
       "stats": "+12 Spell Power and +5 Mana every 5 seconds",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_40"
     },
