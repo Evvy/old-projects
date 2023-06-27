@@ -27,6 +27,10 @@
       {
           "name": "Kamìkaze",
           "class": "Death-Knight"
+      },
+      {
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -68,10 +72,10 @@
       "name": "Delicate Cardinal Ruby",
       "color": "Red",
       "stats": "+20 Agility",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -79,10 +83,10 @@
       "name": "Bright Cardinal Ruby",
       "color": "Red",
       "stats": "+40 Attack Power",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -134,10 +138,10 @@
       "name": "Mystic King's Amber",
       "color": "Yellow",
       "stats": "+20 Resilience Rating",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_38"
     },
@@ -200,10 +204,10 @@
       "name": "Stormy Majestic Zircon",
       "color": "Blue",
       "stats": "+25 Spell Penetration",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_42"
     },
@@ -237,6 +241,10 @@
       "members": [{
           "name": "Evvy",
           "class": "Paladin"
+      },
+      {
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -479,6 +487,10 @@
       "members": [{
           "name": "Evvy",
           "class": "Paladin"
+      },
+      {
+          "name": "Rahgeal",
+          "class": "Hunter"
       }],
       "icon": "inv_jewelcrafting_gem_40"
     },
