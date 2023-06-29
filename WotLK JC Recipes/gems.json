@@ -285,10 +285,10 @@
       "name": "Potent Ametrine",
       "color": "Orange",
       "stats": "+12 Spell Power and +10 Critical Strike Rating",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Esminel",
+          "class": "Priest"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
