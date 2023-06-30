@@ -197,6 +197,10 @@
       "members": [{
           "name": "Kamìkaze",
           "class": "Death-Knight"
+      },
+      {
+          "name": "Esminel",
+          "class": "Priest"
       }],
       "icon": "inv_jewelcrafting_gem_42"
     },
