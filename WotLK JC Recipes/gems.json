@@ -142,6 +142,10 @@
       "members": [{
           "name": "Rahgeal",
           "class": "Hunter"
+      },
+      {
+          "name": "Faidy",
+          "class": "Paladin"
       }],
       "icon": "inv_jewelcrafting_gem_38"
     },
@@ -271,6 +275,10 @@
       "members": [{
           "name": "Esminel",
           "class": "Priest"
+      },
+      {
+          "name": "Kamìkaze",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -370,6 +378,10 @@
       "members": [{
           "name": "Rahgeal",
           "class": "Hunter"
+      },
+      {
+          "name": "Esminel",
+          "class": "Priest"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -528,6 +540,14 @@
       "members": [{
           "name": "Kamìkaze",
           "class": "Death-Knight"
+      },
+      {
+          "name": "Esminel",
+          "class": "Priest"
+      },
+      {
+          "name": "Evvy",
+          "class": "Paladin"
       }],
       "icon": "inv_jewelcrafting_gem_40"
     },
