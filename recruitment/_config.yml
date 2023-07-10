@@ -55,7 +55,7 @@ callouts:
 # Build settings
 theme: just-the-docs
 plugins:
-  - jekyll-default-layout
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
