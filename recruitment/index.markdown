@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 New Feature 🔥
 {: .label .label-purple }
