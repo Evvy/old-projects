@@ -9,8 +9,8 @@
 
 title: Prominent
 author: Evvy
-baseurl: /recruitment # the subpath of your site, e.g. /blog
-url: https://evvy.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/recruitment" # the subpath of your site, e.g. /blog
+url: "https://evvy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/media/promi.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
