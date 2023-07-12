@@ -19,7 +19,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 ##################
 
 # theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.5.4
 search_enabled: false
 # Aux links for the upper right navigation
 aux_links:
