@@ -19,6 +19,7 @@ plugins:
   - jekyll-default-layout
 search_enabled: false
 
+
 # Aux links for the upper right navigation
 aux_links:
   "Prominent on Discord":
