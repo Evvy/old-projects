@@ -9,16 +9,15 @@
 
 title: Prominent
 baseurl: "/recruitment" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://evvy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/media/promi.png"
 
 # Build settings
-# theme: just-the-docs
+#theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-default-layout
+# plugins:
+#   - jekyll-default-layout
 search_enabled: false
-
 
 # Aux links for the upper right navigation
 aux_links:
