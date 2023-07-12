@@ -22,11 +22,16 @@ title: Prominent
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Check us out over at https://discord.gg/fyMSxzubHa
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://evvy.github.io/recruitment" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/recruitment" # the subpath of your site, e.g. /blog
+url: "https://evvy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  ""
 logo: "/media/promi.png"
+
+# Build settings
+theme: just-the-docs
+plugins:
+  - jekyll-default-layout
 
 search_enabled: false
 
@@ -51,11 +56,6 @@ callouts:
   warning:
     title: Warning
     color: red
-
-# Build settings
-theme: just-the-docs
-plugins:
-  - jekyll-default-layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.
