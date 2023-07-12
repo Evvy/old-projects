@@ -53,7 +53,7 @@ callouts:
     color: red
 
 # Build settings
-remote_theme: just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-default-layout
 
