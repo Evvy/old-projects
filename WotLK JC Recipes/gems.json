@@ -8,6 +8,10 @@
       "members": [{
           "name": "Kamìkaze",
           "class": "Death-Knight"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_misc_gem_pearl_12"
     },
@@ -31,6 +35,10 @@
       {
           "name": "Rahgeal",
           "class": "Hunter"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -50,6 +58,10 @@
       {
           "name": "Esminel",
           "class": "Priest"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -76,6 +88,10 @@
       "members": [{
           "name": "Rahgeal",
           "class": "Hunter"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -87,6 +103,10 @@
       "members": [{
           "name": "Rahgeal",
           "class": "Hunter"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_37"
     },
@@ -164,10 +184,10 @@
       "name": "Rigid King's Amber",
       "color": "Yellow",
       "stats": "+20 Hit Rating",
-      "status": false,
+      "status": true,
       "members": [{
-          "name": "",
-          "class": ""
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_38"
     },
@@ -205,6 +225,10 @@
       {
           "name": "Esminel",
           "class": "Priest"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_42"
     },
@@ -301,6 +325,10 @@
       "members": [{
           "name": "Esminel",
           "class": "Priest"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -333,6 +361,10 @@
       "status": true,
       "members": [{
           "name": "Kamìkaze",
+          "class": "Death-Knight"
+      },
+      {
+          "name": "Morphang",
           "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_39"
@@ -382,6 +414,10 @@
       {
           "name": "Esminel",
           "class": "Priest"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_39"
     },
@@ -507,6 +543,10 @@
       {
           "name": "Rahgeal",
           "class": "Hunter"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_40"
     },
@@ -548,6 +588,10 @@
       {
           "name": "Evvy",
           "class": "Paladin"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_40"
     },
@@ -658,6 +702,10 @@
       "members": [{
           "name": "Evvy",
           "class": "Paladin"
+      },
+      {
+          "name": "Morphang",
+          "class": "Death-Knight"
       }],
       "icon": "inv_jewelcrafting_gem_41"
     },
